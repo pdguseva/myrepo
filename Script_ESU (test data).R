@@ -9,7 +9,7 @@ library("car")
 data <- read.csv("/Users/polinaguseva/Documents/Freie Universität Berlin/FUB Internship/ESU data/RealmUserEvent.csv",
                  header = TRUE, sep = ",")
 
-## Ispect data##
+## Ispect data ##
 
 View(data)
 dim(data)
